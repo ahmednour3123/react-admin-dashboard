@@ -140,7 +140,7 @@ const SideBar = ({ open, handleDrawerClose }) => {
         align="center"
         sx={{ fontSize: open ? 17 : 0, transition: "0.25s" }}
       >
-        Ahmed
+        Ahmed Nour
       </Typography>
       <Typography
         color={theme.palette.info.main}
