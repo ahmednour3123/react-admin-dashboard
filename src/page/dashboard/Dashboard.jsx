@@ -16,16 +16,7 @@ const Dashboard = () => {
   
         <Header isDashboard={true} title={"DASHBOARD"} subtitle={"Welcome to your dashboard"}/>
   
-        <Box sx={{ textAlign: "right", mb: 1.3 }}>
-          <Button
-            sx={{ padding: "6px 8px", textTransform: "capitalize" }}
-            variant="contained"
-            color="primary"
-          >
-            <DownloadOutlined />
-            Download Reports
-          </Button>
-        </Box>
+        
 </Stack>
       <Row1 />
       <Row2 />

@@ -40,11 +40,6 @@ const Row2 = () => {
             </Typography>
           </Box>
 
-          <Box>
-            <IconButton sx={{ mr: 3 }}>
-              <DownloadOutlined />
-            </IconButton>
-          </Box>
         </Stack>
 
         <Line isDashboard={true} />
